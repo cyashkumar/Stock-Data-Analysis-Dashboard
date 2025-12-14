@@ -12,7 +12,7 @@ It helps understand trends, comparisons, and performance metrics. This Power BI 
 
 ## 📁 Files in This Repository
 - [Adani Stock Analysis Dashboard.zip](https://github.com/user-attachments/files/24149015/Adani.Stock.Analysis.Dashboard.zip) – Power BI dashboard file
-- [Stock Analysis Dashboard.zip](https://github.com/user-attachments/files/24148970/Stock.Analysis.Dashboard.zip) – Dataset used 
+- [Quote-Equity-ADANIENT-EQ-19-10-2024-to-19-10-2025.csv](https://github.com/user-attachments/files/24149049/Quote-Equity-ADANIENT-EQ-19-10-2024-to-19-10-2025.csv) – Dataset used 
 - [Stock Analysis Dashboard.zip](https://github.com/user-attachments/files/24148970/Stock.Analysis.Dashboard.zip) – Dashboard screenshots
 
 

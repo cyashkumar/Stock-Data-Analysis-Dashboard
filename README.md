@@ -1,4 +1,4 @@
-# Adani Stock Data Analysis Dashboard Project
+# Adani Enterprises Stock Data Analysis Dashboard Project
 
 ## 📊 Project Overview
 Power BI dashboard provides insights and analysis using interactive visualizations.
